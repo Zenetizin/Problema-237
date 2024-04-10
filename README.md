@@ -315,7 +315,7 @@ No **Bloco 4**, será onde movimentaremos a cobra pelo espaço, com um método s
 				ph[s-1] -= 1;//Movimentando cabeça
 				
 				break;
-			
+			}
 		}	
 	
 		return 0;
